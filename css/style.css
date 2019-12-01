@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://dottiest-oak.000webhostapp.com/images/background.jpg");
+    background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+#login {
+    background-color: #626262;
+    border-radius: 0 0 8px 8px;
+    font-size: 36px;
+    text-align: center;
+    border-right: solid 8px #313131;
+    border-left: solid 8px #313131;
+    border-bottom: solid 8px #313131;
+    width: 1000px;
+}
+
+#main {
+    background-color: #626262;
+    border-radius: 8px;
+    border: solid 8px #313131;
+    width: 900px;
+    margin: auto;
+}
+
+#adminheader{
+    text-align: center;
+    width: 320px;
+    font-size: 35px;
+    border-color: #313131;
+}
+
+#ruleheader {
+    text-align: center;
+    font-size: 35px;
+    border-color: #313131;
+}
+
+#welcome {
+    text-align: center;
+	color: #626262;
+	font-size: 46px;
+}
+
+#welcome2 {
+    text-align: center;
+	color: #626262;
+	font-size: 46px;
+}
+
+#ruletext {
+    font-size: 30px;   
+}
+
+#tbodytable {
+    font-size: 30px;
+    border-color: #313131
+}
+
+#test {
+    border-color: #313131
+}
